@@ -2,7 +2,7 @@
 layout: lesson
 root: .
 ---
-This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-12-17-bham/) workshop on Monday 17th and Tuesday 18th December
+This is the version taught at the [Programming with Python, including The Unix Shell, and Version Control with Git](https://bham-carpentries.github.io/2018-12-17-bham/) workshop on Monday 17th and Tuesday 18th December 2018
 
 The Unix shell has been around longer than most of its users have been alive.
 It has survived so long because it's a power tool
